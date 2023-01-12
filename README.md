@@ -7,5 +7,7 @@ Project Objective: Prediction of whether a given image is a Cat or a Dog using C
 Quantifiable result: We could train the Convolutional Neural Network to attain a accuracy of 80% using 23 epochs.
 
   *Added multiple convolution and pooling layers
+  
   *Training model on basis of given data
+  
   *Fitting the CNN to see if the provided image is dog or cat
